@@ -7,6 +7,7 @@ www.emulatemii.com
 
 http://emulatemii.com/wii64/compatList/
 
+------------------------------------------------------
 
 README : Wii64 / Cube64
 Beta 1.1
