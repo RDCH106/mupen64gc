@@ -1,3 +1,13 @@
+# Wii64 mupen64gc
+Automatically exported from code.google.com/p/mupen64gc
+
+Port of the popular multi-OS N64 emulator, Mupen64, to the Nintendo Gamecube and Wii through the libOGC library. The emulator currently uses dynamic recompilation of the N64 machine code to PowerPC (the Gamecube/Wii's ISA) and full hardware accelerated graphics to achieve (near) full-speed emulation in most instances
+
+www.emulatemii.com
+
+http://emulatemii.com/wii64/compatList/
+
+
 README : Wii64 / Cube64
 Beta 1.1
 
